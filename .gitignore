@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# logs
+/logs/error/
+/logs/server/
+
+# secret tokens
+config.json
+
+# test files
+test.js
