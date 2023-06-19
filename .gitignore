@@ -7,6 +7,7 @@
 
 # secret tokens
 config.json
+.env
 
 # test files
 test.js
