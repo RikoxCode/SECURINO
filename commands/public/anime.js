@@ -5,7 +5,7 @@ module.exports = {
 		.setName('anime')
 		.setDescription('Replies with an anime'),
 	run: async ({interaction}) => {
-    const { getRandom, getSearch, getTopTen } = require("../src/API-query.js");
+    const { getRandom, getSearch, getTopTen } = require("../../src/API-query.js");
     const subcommand = args.shift().toLowerCase();
     const authorName = message.author;
     

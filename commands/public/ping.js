@@ -8,5 +8,5 @@ module.exports = {
     run: ({ interaction }) => {
         interaction.reply('pong')
     },
-    devOnly: true
+    devOnly: false
 };
