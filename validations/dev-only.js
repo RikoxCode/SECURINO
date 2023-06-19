@@ -6,7 +6,7 @@ const isDeveloper = (interaction) => {
 
 module.exports = (interaction, commandObj) => {
   if (commandObj.devOnly && !isDeveloper(interaction)) {
-    interaction.reply("This command is only for developers!");
+    interaction.reply("This command is in development!");
     return true;
   }
 };

@@ -1,0 +1,42 @@
+{
+  "orakel": {
+    "answers": [
+      {
+        "name": "orakel",
+        "value": "JA",
+        "probability": "90",
+        "color": "#00ff00"
+      },
+      {
+        "name": "orakel",
+        "value": "NEIN",
+        "probability": "90",
+        "color": "#ff0000"
+      },
+      {
+        "name": "orakel",
+        "value": "VIELLEICHT",
+        "probability": "80",
+        "color": "#ffa500"
+      },
+      {
+        "name": "orakel",
+        "value": "EHER JA",
+        "probability": "70",
+        "color": "#ffa500"
+      },
+      {
+        "name": "orakel",
+        "value": "EHER NEIN",
+        "probability": "70",
+        "color": "#ffa500"
+      },
+      {
+        "name": "orakel",
+        "value": "UWU",
+        "probability": "5",
+        "color": "#ffc0cb"
+      }
+    ]
+  }
+}

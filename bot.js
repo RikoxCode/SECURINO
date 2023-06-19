@@ -1,7 +1,3 @@
-const colors = require('colors')
-
-
-
 const requiredModules = ['dotenv', 'discord.js', 'djs-commander', 'node:path', 'fs', 'colors', 'express'];
 const missingModules = [];
 
@@ -20,6 +16,7 @@ requiredModules.forEach(moduleName => {
   }
 });
 
+const colors = require('colors')
 
 if (missingModules.length === 0) {
   require('dotenv').config()

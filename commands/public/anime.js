@@ -45,11 +45,9 @@ module.exports = {
     const subcommand = interaction.options.getSubcommand();
 
     let anime;
-    let genres = "";
 
-    
+    console.log('anime command executing')
 
-    try {
       switch (subcommand) {
         case "search":
           console.log("anime search command executing");
@@ -80,10 +78,6 @@ module.exports = {
           exeRandom({ anime: anime.data, interaction: interaction, EmbedBuilder: EmbedBuilder})
           break;
       }
-
-    } catch (error) {
-      console.log(error);
-    }
 
     function getGenre(genre) {
       let genreID;
