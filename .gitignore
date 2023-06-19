@@ -1,13 +1,27 @@
-# dependencies
-/node_modules
+# Node.js dependencies
+node_modules/
 
-# logs
-/logs/error/
-/logs/server/
+# Logs
+logs/
+*.log
 
-# secret tokens
+# Secret tokens and configuration files
 config.json
 .env
 
-# test files
-test.js
+# Build output
+dist/
+build/
+out/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Test files
+*.test.js
+test/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
