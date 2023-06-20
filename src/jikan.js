@@ -22,8 +22,7 @@ function getSearch(params) {
   
   function getRandom() {
     const Fetch = async () => {
-      const mal_id = Math.floor(Math.random() * 1000);
-      const response = await fetch(`https://api.jikan.moe/v4/anime/${mal_id}`);
+      const response = await fetch(`https://api.jikan.moe/v4/random/anime`);
       const data = await response.json();
       return data;
     };

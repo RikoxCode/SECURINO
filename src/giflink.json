@@ -1,17 +1,32 @@
 {
+    "kick":[
+        {"name": "Random", "value": "https://media.tenor.com/aDZHwZaw9t4AAAAC/anime-kick.gif"},
+        {"name": "Random", "value": "https://media.tenor.com/icV2ba3gU7MAAAAM/kick-anime.gif"}
+    ],
+    "ban":[
+        {"name": "Random", "value":"https://media.tenor.com/cEC88hNR3gYAAAAC/ban-dancing.gif"},
+        {"name": "Random", "value":"https://media.tenor.com/WklxBFf9xHAAAAAd/anime-ban.gif"},
+        {"name": "Sword art online", "value": "https://gifdb.com/images/high/rika-shinozaki-ban-hammer-anime-9cosu3pbgdsy8ngj.gif"},
+        {"name": "Random", "value": "https://media.tenor.com/nMh19fPNms4AAAAC/ban-admin.gif"}
+    ],
+    "kiss":[
+        {"name": "Random", "value": "https://media.tenor.com/F02Ep3b2jJgAAAAM/cute-kawai.gif"},
+        {"name": "Sword art online", "value": "https://media.tenor.com/3NCLnc_FaQAAAAAM/kirito-asuna.gif"},
+        {"name": "Highschool DXD", "value": "https://i.pinimg.com/originals/62/3c/e6/623ce69be94e527a6573fb3e6ec971bc.gif"},
+        {"name": "Random", "value": "https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-anime-gif-kiss-1.gif"}
+    ],
     "kill":[
         {"name": "Assasins Pride", "value":"https://i.pinimg.com/originals/15/2d/88/152d88ed603b78c1fcead9a7786d4766.gif"},
         {"name": "Sword art online", "value":"https://thumbs.gfycat.com/BothPlasticIslandwhistler-size_restricted.gif"},
         {"name": "Random", "value": "https://media.tenor.com/m3F2A4GE7CEAAAAC/anime-kill.gif"},
-        {"name": "Random", "value": "https://i.pinimg.com/originals/cc/87/65/cc87656cf72979fb8ee01c3eebc5cdff.gif"}
-    ],
-    "kiss":[
-
+        {"name": "Random", "value": "https://i.pinimg.com/originals/cc/87/65/cc87656cf72979fb8ee01c3eebc5cdff.gif"},
+        {"name": "Random", "value": "https://media.tenor.com/NbBCakbfZnkAAAAC/die-kill.gif"},
+        {"name": "Random", "value": "https://gifdb.com/images/file/akame-ga-kill-ruthless-assassin-akame-zvfq3no50rvgrotd.gif"}
     ],
     "bet":[
         
     ],
-    "ban":[
-        {"name": "Sword art online", "value": "https://gifdb.com/images/high/rika-shinozaki-ban-hammer-anime-9cosu3pbgdsy8ngj.gif"}
+    "hug":[
+        {"name": "Random", "value": "https://media.tenor.com/kCZjTqCKiggAAAAC/hug.gif"}
     ]
 }
